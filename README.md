@@ -16,6 +16,9 @@ References:
 # GAN Architecture :
 ![GAN](./Images/GAN.PNG)
 
+# Tensorboard logs :
+![Tensorboard](./Images/TensorboardLogs.png)
+
 # In progress training results :
 **At epoch 30,**
 
