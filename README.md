@@ -1,4 +1,4 @@
-# Sketch2Image-translation
+# Sketch2Color-anime-translation
 Given a plain anime sketch the model outputs a random colored anime image using Conditional Generative Adversarial Network (CGAN).
 
 Implemented the anime sketch colorization using the reference(s) paper-1 below.
