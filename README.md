@@ -1,9 +1,10 @@
-# Sketch2Color-anime-translation :
+# Sketch2Color-anime-translation:
 Given a plain anime sketch the model outputs a random colored anime image using Generative Adversarial Networks (GANs).
 
 Implemented the anime sketch colorization using the reference(s) paper-1 below.
 
-* Dataset : https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair
+* Dataset: [Anime sketch colorization pair](https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair)
+* Blog on: [Towards Data Science](https://towardsdatascience.com/sketch-to-color-anime-translation-using-generative-adversarial-networks-gans-8f4f69594aeb)
 
 References:
 
@@ -13,13 +14,13 @@ References:
 
 [3] https://github.com/soumith/ganhacks
 
-# GAN Architecture :
+# GAN Architecture:
 ![GAN](./Images/GAN.PNG)
 
-# Tensorboard logs :
+# Tensorboard logs:
 ![Tensorboard](./Images/TensorboardLogs.png)
 
-# In progress training results :
+# In progress training results:
 **At epoch 30,**
 
 ![result_epoch_30](./Images/Epoch30.PNG)
@@ -32,6 +33,6 @@ References:
 
 ![result_epoch_43](./Images/Epoch43.PNG)
 
-# Prediction :
+# Prediction:
 ![Sample_1](./Images/TestSample1.PNG)
 ![Sample_2](./Images/TestSample2.PNG)
