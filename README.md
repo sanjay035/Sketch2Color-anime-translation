@@ -33,6 +33,6 @@ References:
 
 ![result_epoch_43](./Images/Epoch43.PNG)
 
-# Prediction:
-![Sample_1](./Images/TestSample1.PNG)
-![Sample_2](./Images/TestSample2.PNG)
+# Prediction on test sketches:
+![Sample_1](./Images/Combined_1.png)
+![Sample_2](./Images/Combined_2.png)
