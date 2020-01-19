@@ -1,0 +1,24 @@
+name: Sketch2ColorAnimeTranslation
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - ipython
+  - ipyparallel
+  - ipywidgets
+  - numpy
+  - matplotlib
+  - mpi4py
+  - networkx
+  - pandas
+  - scikit-image
+  - scikit-learn
+  - seaborn
+  - tensorflow=1.15
+  - pyunpack
+  - pillow
+  - imageio
+  - glob2
+  - tqdm
+  - jupyterlab
