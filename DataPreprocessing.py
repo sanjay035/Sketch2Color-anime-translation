@@ -47,7 +47,7 @@ get_ipython().system('mkdir trainData')
 """
 Preprocessing and saving the training data to corresponding directory. 
 """
-for idx, file in tqdm(enumerate(glob.glob('train\*.png')[:23])):
+for idx, file in tqdm(enumerate(glob.glob('train\*.png'))):
     img = Image.open(file).convert('RGB')
     
     img.crop((0, 0, 512,512)).save('./trainData/Images/{}.png'.format(idx))
@@ -69,7 +69,7 @@ get_ipython().system('mkdir valData')
 """
 Preprocessing and saving the validation/test data to corresponding directory. 
 """
-for idx, file in tqdm(enumerate(glob.glob('val\*.png')[:23])):
+for idx, file in tqdm(enumerate(glob.glob('val\*.png'))):
     img = Image.open(file).convert('RGB')
     
     img.crop((0, 0, 512,512)).save('./valData/Images/{}.png'.format(idx))
