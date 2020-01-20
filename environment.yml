@@ -12,9 +12,6 @@ dependencies:
   - mpi4py
   - networkx
   - pandas
-  - scikit-image
-  - scikit-learn
-  - seaborn
   - tensorflow=1.15
   - pyunpack
   - pillow
