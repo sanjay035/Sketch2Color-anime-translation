@@ -34,7 +34,7 @@ Implemented the anime sketch colorization using the reference(s) paper-1 below.
 ```
 - Then activate the environment created and launch the jupyter:
 ```bash
-> conda activate environment_name
+> conda activate Sketch2ColorAnimeTranslation
 > jupyter notebook
 ``` 
 # Dataset:
@@ -69,4 +69,5 @@ Implemented the anime sketch colorization using the reference(s) paper-1 below.
 
 # Prediction on test sketches:
 ![Sample_1](./Images/Combined_1.png)
+
 ![Sample_2](./Images/Combined_2.png)
