@@ -10,7 +10,6 @@ dependencies:
   - numpy
   - matplotlib
   - mpi4py
-  - networkx
   - pandas
   - tensorflow=1.15
   - pyunpack
@@ -18,4 +17,3 @@ dependencies:
   - imageio
   - glob2
   - tqdm
-  - jupyterlab
