@@ -4,7 +4,7 @@ Given a simple line-art anime sketch the model should output a decent colored an
 Implemented the anime sketch colorization using the reference(s) paper-1 below.
 
 * Dataset: [Anime sketch colorization pair](https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair)
-* Blog on: [Towards Data Science](https://towardsdatascience.com/sketch-to-color-anime-translation-using-generative-adversarial-networks-gans-8f4f69594aeb)
+* Blog on: [Towards Data Science](https://towardsdatascience.com/sketch-to-color-anime-translation-using-generative-adversarial-networks-gans-8f4f69594aeb?source=friends_link&sk=15df1b03e8ffc60eaa82bb34114c242a)
 
 **References**:
 
