@@ -1,5 +1,5 @@
 # Sketch2Color-anime-translation:
-Given a simple line-art anime sketch the model should output a decent colored anime image using Generative Adversarial Networks (GANs).
+Given a simple line-art anime sketch the model should output a decent colored anime image using Conditional-Generative Adversarial Networks (C-GANs).
 
 Implemented the anime sketch colorization using the reference(s) paper-1 below.
 
@@ -48,8 +48,8 @@ Implemented the anime sketch colorization using the reference(s) paper-1 below.
 - For the training process refer the `Sketch2Color_Anime.ipynb` notebook.
 - For the evaluation on test data refer the `final.ipynb` notebook.
 
-# GAN Architecture:
-![GAN](./Images/GAN.PNG)
+# C-GAN Architecture:
+![C-GAN](./Images/GAN.PNG)
 
 # Tensorboard logs:
 ![Tensorboard](./Images/TensorboardLogs.png)
