@@ -71,3 +71,6 @@ Implemented the anime sketch colorization using the reference(s) paper-1 below.
 ![Sample_1](./Images/Combined_1.png)
 
 ![Sample_2](./Images/Combined_2.png)
+
+# Contribute:
+Correction & Contribution are always welcome! :)
